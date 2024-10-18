@@ -1,3 +1,5 @@
+Status: Draft
+
 # Neural-Friendly Universal Pictogram Language for Machine Translation: A Novel Approach for Accessible Communication
 
 Author: Aliaksei Smirnou
